@@ -1,0 +1,2 @@
+C:\Users\BARAN\source\repos\C\algo_game\x64\Debug\raylib.dll
+C:\Users\BARAN\source\repos\C\algo_game\algo game\x64\Debug\algo game.vcxproj.Up2Date

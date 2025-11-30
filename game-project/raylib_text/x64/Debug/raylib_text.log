@@ -1,0 +1,9 @@
+﻿  raylib_text.c
+C:\Users\BARAN\source\repos\raylib_text\raylib_text.c(26,69): warning C4244: 'işlev': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\BARAN\source\repos\raylib_text\raylib_text.c(39,11): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\BARAN\source\repos\raylib_text\raylib_text.c(45,26): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\BARAN\source\repos\raylib_text\raylib_text.c(46,27): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\BARAN\source\repos\raylib_text\raylib_text.c(21,15): warning C4244: 'başlatılıyor': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  raylib_text.vcxproj -> C:\Users\BARAN\source\repos\raylib_text\x64\Debug\raylib_text.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

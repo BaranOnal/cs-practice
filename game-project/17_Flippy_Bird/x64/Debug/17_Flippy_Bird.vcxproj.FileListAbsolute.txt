@@ -1,0 +1,4 @@
+C:\Users\BARAN\source\repos\17_Flippy_Bird\x64\Debug\17_Flippy_Bird.vcxproj.CopyComplete
+C:\Users\BARAN\source\repos\17_Flippy_Bird\x64\Debug\17_Flippy_Bird.exe
+C:\Users\BARAN\source\repos\17_Flippy_Bird\x64\Debug\raylib.dll
+C:\Users\BARAN\source\repos\C\17_Flippy_Bird\x64\Debug\17_Flippy_Bird.exe

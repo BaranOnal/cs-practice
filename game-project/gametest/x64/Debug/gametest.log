@@ -1,0 +1,6 @@
+﻿  gametest.c
+C:\Users\BARAN\source\repos\gametest\gametest.c(119,28): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+C:\Users\BARAN\source\repos\gametest\gametest.c(120,29): warning C4244: '=': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  gametest.vcxproj -> C:\Users\BARAN\source\repos\gametest\x64\Debug\gametest.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

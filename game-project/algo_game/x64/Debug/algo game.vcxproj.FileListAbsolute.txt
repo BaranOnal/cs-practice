@@ -1,0 +1,4 @@
+C:\Users\BARAN\source\repos\algo game\x64\Debug\algo game.exe
+C:\Users\BARAN\source\repos\algo game\x64\Debug\algo game.vcxproj.CopyComplete
+C:\Users\BARAN\source\repos\algo game\x64\Debug\raylib.dll
+C:\Users\BARAN\source\repos\algo_game\x64\Debug\algo game.exe

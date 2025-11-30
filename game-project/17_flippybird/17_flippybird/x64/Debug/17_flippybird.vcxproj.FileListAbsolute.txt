@@ -1,0 +1,2 @@
+C:\Users\BARAN\source\repos\C\17_flippybird\x64\Debug\raylib.dll
+C:\Users\BARAN\source\repos\C\17_flippybird\17_flippybird\x64\Debug\17_flipp.C95AD253.Up2Date

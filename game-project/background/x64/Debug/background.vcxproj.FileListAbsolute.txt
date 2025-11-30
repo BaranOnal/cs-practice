@@ -1,0 +1,3 @@
+C:\Users\BARAN\source\repos\background\x64\Debug\background.vcxproj.CopyComplete
+C:\Users\BARAN\source\repos\background\x64\Debug\background.exe
+C:\Users\BARAN\source\repos\background\x64\Debug\raylib.dll

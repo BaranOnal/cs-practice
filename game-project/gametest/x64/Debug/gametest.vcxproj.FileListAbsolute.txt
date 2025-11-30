@@ -1,0 +1,3 @@
+C:\Users\BARAN\source\repos\gametest\x64\Debug\gametest.vcxproj.CopyComplete
+C:\Users\BARAN\source\repos\gametest\x64\Debug\gametest.exe
+C:\Users\BARAN\source\repos\gametest\x64\Debug\raylib.dll

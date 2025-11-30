@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BARAN\\source\\repos\\async_file_handler\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86126880-6AC0-44A3-B105-1135F747CABF}|async_file_handler.vcxproj|C:\\Users\\BARAN\\source\\repos\\async_file_handler\\async_file_handler.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{86126880-6AC0-44A3-B105-1135F747CABF}|async_file_handler.vcxproj|solutionrelative:async_file_handler.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "async_file_handler.c",
+              "DocumentMoniker": "C:\\Users\\BARAN\\source\\repos\\async_file_handler\\async_file_handler.c",
+              "RelativeDocumentMoniker": "async_file_handler.c",
+              "ToolTip": "C:\\Users\\BARAN\\source\\repos\\async_file_handler\\async_file_handler.c",
+              "RelativeToolTip": "async_file_handler.c",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAmwHAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-13T09:31:51.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

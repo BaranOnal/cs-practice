@@ -1,0 +1,3 @@
+C:\Users\BARAN\source\repos\font\x64\Debug\font.vcxproj.CopyComplete
+C:\Users\BARAN\source\repos\font\x64\Debug\font.exe
+C:\Users\BARAN\source\repos\font\x64\Debug\raylib.dll

@@ -1,0 +1,5 @@
+﻿  font.c
+C:\Users\BARAN\source\repos\font\font.c(26,72): warning C4244: 'işlev': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  font.vcxproj -> C:\Users\BARAN\source\repos\font\x64\Debug\font.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.
