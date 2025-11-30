@@ -1,0 +1,5 @@
+﻿  algo game.cpp
+C:\Users\BARAN\source\repos\C\algo_game\algo game.cpp(25,79): warning C4244: 'bağımsız değişken': 'int' - 'float' dönüşümü; veri kaybı olabilir
+  algo game.vcxproj -> C:\Users\BARAN\source\repos\C\algo_game\x64\Debug\algo game.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

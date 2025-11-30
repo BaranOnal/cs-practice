@@ -1,0 +1,101 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+
+	int grade;
+
+	printf("enter the grade: ");
+
+	scanf_s("%d", &grade);
+
+	if (grade <= 100) {
+
+		switch (grade / 10)
+		{
+		case 1:
+		case 2:
+		case 3:
+		case 4:
+			printf("Fail!\n");
+				break;
+		case 5:
+			printf("CC\n");
+				break;
+		case 6:
+			printf("CB\n");
+				break;
+		case 7:
+			printf("BB\n");
+				break;
+		case 8:
+			printf("BA\n");
+				break;
+		case 9:
+			printf("AA\n");
+				break;
+		case 10:
+			printf("AA\n");
+				break;
+
+		default:
+			printf("Grade is invalid");
+				break;
+		}
+	}
+	else {
+
+		printf("Grade is invalid");
+	}
+
+	return 0;
+
+}
+
+#include <stdio.h>
+#include <stdlib.h>
+
+int main() {
+	int grade;
+	printf("enter the grade: ");
+	scanf_s("%d", &grade);
+	if (grade <= 100) {
+		switch (grade / 10)
+		{
+		case 1:
+		case 2:
+		case 3:
+		case 4:
+			printf("Fail!\n");
+			break;
+		case 5:
+			printf("CC\n");
+			break;
+		case 6:
+			printf("CB\n");
+			break;
+		case 7:
+			printf("BB\n");
+			break;
+		case 8:
+			printf("BA\n");
+			break;
+		case 9:
+			printf("AA\n");
+			break;
+		case 10:
+			printf("AA\n");
+			break;
+
+		default:
+			printf("Grade is invalid");
+			break;
+		}
+	}
+	else { printf("Grade is invalid"); }
+
+	return 0;
+}
+
+
+

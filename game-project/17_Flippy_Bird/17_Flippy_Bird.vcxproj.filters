@@ -1,0 +1,112 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Kaynak Dosyalar">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Üst Bilgi Dosyaları">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Kaynak Dosyaları">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="17_Flippy_Bird.c">
+      <Filter>Kaynak Dosyalar</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="source\aganicon.png">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="source\apartment.png">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="source\apartment2.png">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="source\astronaut.png">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="source\background.png">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="source\bird1.png">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="source\city.png">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="source\desert.png">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="source\finn.png">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="source\ghost.png">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="source\gray.png">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="source\grayblock.png">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="source\ground.png">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="source\pause_icon.png">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="source\play_icon.png">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="source\returnicon.png">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="source\reverse.png">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="source\sbackground.png">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="source\secondcity.png">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="source\sky.png">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="source\skywithoutsun.png">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="source\space.png">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="source\space_ship.png">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+    <Image Include="source\space_ship2.png">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Media Include="source\beeps.mp3">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Media>
+    <Media Include="source\Lost Woods.mp3">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Media>
+    <Media Include="source\ping.mp3">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Media>
+  </ItemGroup>
+  <ItemGroup>
+    <Font Include="source\Winter Storm.ttf">
+      <Filter>Kaynak Dosyaları</Filter>
+    </Font>
+  </ItemGroup>
+</Project>
